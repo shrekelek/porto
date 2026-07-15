@@ -73,10 +73,8 @@ function AboutPage() {
         <div className="space-y-8 text-foreground/90">
           <p className="text-lg leading-relaxed">
             I’m a data scientist with a passion for turning messy, complex data
-            into actionable insights. Over the past several years, I’ve worked
-            across industries including fintech, e-commerce, and healthcare,
-            building predictive models, recommendation systems, and real-time
-            analytics pipelines.
+            into actionable insights. I’ve made a projects building predictive models
+            across aspects including fintech, e-commerce, and healthcare. My work focuses on creating end-to-end machine learning solutions that are not only accurate but also interpretable and scalable.
           </p>
           <p className="leading-relaxed text-muted-foreground">
             My approach combines strong statistical foundations with modern
