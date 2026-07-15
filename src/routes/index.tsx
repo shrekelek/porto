@@ -7,9 +7,9 @@ import heroImage from "../assets/hero-data-science.jpg";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Your Name — Data Science Portfolio" },
+      { title: "BimaSakti — Data Science Portfolio" },
       { name: "description", content: "Data Scientist and Machine Learning Engineer portfolio showcasing predictive models, dashboards, and AI solutions." },
-      { property: "og:title", content: "Your Name — Data Science Portfolio" },
+      { property: "og:title", content: "BimaSakti — Data Science Portfolio" },
       { property: "og:description", content: "Data Scientist and Machine Learning Engineer portfolio showcasing predictive models, dashboards, and AI solutions." },
     ],
   }),
