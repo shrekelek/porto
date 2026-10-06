@@ -23,8 +23,8 @@ const skills = [
 const experience = [
   {
     role: "Student",
-    company: "Dian Nuswantoro University",
-    period: "2022 — Present",
+    company: "Universitas Muhammadiyah Surakarta",
+    period: "2023 — Present",
     description:
       "",
   },
@@ -37,10 +37,10 @@ const experience = [
   },
   {
     role: "Research",
-    company: "Dian Nuswantoro University",
+    company: "Universitas Muhammadiyah Surakarta",
     period: "2026",
     description:
-      "Enhancing Gradient Boosting Performance for Obesity Prediction Through Body Mass Index Feature Engineering and Hyperparameter Optimization",
+      "Enhancing Gradient Boosting Performance for Obesity Prediction Through Body Mass Index Feature Engineering",
   },
 ];
 

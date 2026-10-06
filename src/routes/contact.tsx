@@ -64,7 +64,7 @@ function ContactPage() {
               <div>
                 <p className="text-sm text-muted-foreground">Location</p>
                 <p className="font-medium text-foreground">
-                  Semarang City, Indonesia
+                  Surakarta, Indonesia
                 </p>
               </div>
             </div>
